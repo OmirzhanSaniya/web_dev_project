@@ -1,1 +1,0 @@
-print(str(input()).count(str(input())))

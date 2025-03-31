@@ -1,1 +1,0 @@
-print((lambda a,b: 1 if a > b else 2 if a < b else 0)(int(input()),int(input()) ))

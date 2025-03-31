@@ -1,1 +1,0 @@
-print((lambda a,b: sum( 1 for i in range(1, a-1) if b[i] > b[i-1] and b[i] > b[i+1]))(int(input()), list(map(int, input().split()))))

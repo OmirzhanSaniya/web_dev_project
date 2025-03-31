@@ -1,1 +1,0 @@
-print( (lambda a,b: int(bool(a) != bool(b))) (*list(map(int, input().split()))) )

@@ -1,1 +1,0 @@
-print( (lambda a,b,c,d: min(min(a,b),min(c,d)) ) (*list(map(int, input().split()))) )

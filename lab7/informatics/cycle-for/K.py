@@ -1,1 +1,0 @@
-print((lambda a: sum(int(input()) for _ in range(a)))(int(input())))
